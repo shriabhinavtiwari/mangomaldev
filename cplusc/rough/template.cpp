@@ -17,6 +17,9 @@ int main(){
     ios::sync_with_stdio(0);
     cin.tie(0);
     // solution
-    // cin and cout for input and output respectively
+    
+    int n;
+    cin>>n;
+  
     return 0;
 }
