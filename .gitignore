@@ -180,3 +180,8 @@ Dockerfile.local
 
 # data.csv
 data.csv
+
+# exclude binary executables 
+cplusc/*
+!*.cpp
+!*.h
